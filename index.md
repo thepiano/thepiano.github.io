@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Whats Up World!
+title: Steinway n Sons!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
